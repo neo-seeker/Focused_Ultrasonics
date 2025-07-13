@@ -1,4 +1,4 @@
-# SonicSurface
+# Sonface
 An Open ultrasonic phased-array for applications in acoustic levitation, haptic feedback, directive audio and many more.
 
 
